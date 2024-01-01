@@ -1,2 +1,2 @@
-# vm-to-heck-assembly
-transitales VM code to Heck asambly code for the nand to tetris course
+# VM-to-heck-assembly
+translates VM code to Heck assembly code for the nand to Tetris course
